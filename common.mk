@@ -380,6 +380,10 @@ PRODUCT_PACKAGES += \
     android.hardware.power-service-qti \
     android.hardware.power@1.2.vendor \
 
+# Prebuilt Packages
+PRODUCT_PACKAGES += \
+    Gboard
+
 # RCS
 PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager \
